@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cd+iSu3FGPY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleja\\source\\repos\\Distributed_Programming-master\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
