@@ -91,6 +91,7 @@ C:\Users\alfre\source\repos\WebAplication_1\WebApplication1\obj\Debug\net8.0\ref
 C:\Users\alfre\source\repos\WebAplication_1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\alfre\source\repos\WebAplication_1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\alfre\source\repos\WebAplication_1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+<<<<<<< HEAD
 C:\Users\aleja\Desktop\Distributed_Programming-master\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\aleja\Desktop\Distributed_Programming-master\WebApplication1\bin\Debug\net8.0\appsettings.json
 C:\Users\aleja\Desktop\Distributed_Programming-master\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
@@ -152,3 +153,5 @@ C:\Users\aleja\source\repos\Distributed_Programming-master\WebApplication1\obj\D
 C:\Users\aleja\source\repos\Distributed_Programming-master\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\aleja\source\repos\Distributed_Programming-master\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
 C:\Users\aleja\source\repos\Distributed_Programming-master\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+=======
+>>>>>>> f0cfa246346fbc4f5151b95ba4d97e0902881682

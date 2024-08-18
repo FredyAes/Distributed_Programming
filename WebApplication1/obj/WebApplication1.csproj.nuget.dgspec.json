@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\aleja\\source\\repos\\Distributed_Programming-master\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\alfre\\source\\repos\\WebAplication_1\\WebApplication1\\WebApplication1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alfre\\source\\repos\\WebAplication_1\\WebApplication1\\WebApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alfre\\source\\repos\\WebAplication_1\\WebApplication1\\WebApplication1.csproj",
+        "projectName": "WebApplication1",
+        "projectPath": "C:\\Users\\alfre\\source\\repos\\WebAplication_1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alfre\\source\\repos\\WebAplication_1\\WebApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alfre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> f0cfa246346fbc4f5151b95ba4d97e0902881682
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
